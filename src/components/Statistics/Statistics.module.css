@@ -1,0 +1,16 @@
+.statisticsContainer {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.statisticsItem {
+    margin-bottom: 10px;
+}
+
+.positiveFeedback {
+    color: #0d745a;
+    font-size: 18px;
+    font-weight: 500;
+}
